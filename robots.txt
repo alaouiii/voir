@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: 
-Crawl-delay: 5
-Disallow: /cgi-bin/
-Sitemap: https://voiranime--v1.pages.dev/sitemap.xml
